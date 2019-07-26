@@ -20,5 +20,5 @@
 
 |GAN | Generated images |Generated images GIF| 
 |---| --- |----|
-|[DCGAN](DCGAN.ipynb)|![DCGAN](../images/DCGAN/Fashion MNIST_epoch_20.jpg)|![DCGAN](../images/DCGAN/FMNIST_animation.gif)|
-|[Conditional DCGAN](Conditional_DCGAN_MNIST.ipynb)|![C_DCGAN](../images/Conditional_DCGAN/Fashion MNIST_epoch_20.jpg) |![C_DCGAN](../images/Conditional_DCGAN/FMNIST_animation.gif) |
+|[DCGAN](DCGAN.ipynb)|![DCGAN](../images/DCGAN/Fashion_MNIST_epoch_20.jpg)|![DCGAN](../images/DCGAN/FMNIST_animation.gif)|
+|[Conditional DCGAN](Conditional_DCGAN_MNIST.ipynb)|![C_DCGAN](../images/Conditional_DCGAN/Fashion_MNIST_epoch_20.jpg) |![C_DCGAN](../images/Conditional_DCGAN/FMNIST_animation.gif) |
