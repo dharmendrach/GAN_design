@@ -2,7 +2,7 @@
 
 1. [Basic GAN](Basic_GAN.ipynb) :- Implementation of [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) paper. Generator and Discriminator doesn't use maxout layer used in the paper.
 2. [DCGAN](DCGAN.ipynb) :- Implementation of [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
-3. [Conditional DCGAN](Conditional_DCGAN_MNIST.ipynb) :- Implement [conditional GAN](Conditional Generative Adversarial Nets) using DCGAN architecture.
+3. [Conditional DCGAN](Conditional_DCGAN_MNIST.ipynb) :- Implement [conditional GAN](https://arxiv.org/abs/1411.1784) using DCGAN architecture.
 
 ## GAN Results
 
